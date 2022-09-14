@@ -1,0 +1,1 @@
+alias deploy='zsh $ZSH/custom/tools/deploy.zsh'
